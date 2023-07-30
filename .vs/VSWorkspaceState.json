@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookShoppingCartMvcUI",
+    "\\BookShoppingCartMvcUI\\Areas",
+    "\\BookShoppingCartMvcUI\\Areas\\Identity",
+    "\\BookShoppingCartMvcUI\\Areas\\Identity\\Pages",
+    "\\BookShoppingCartMvcUI\\Areas\\Identity\\Pages\\Account"
+  ],
+  "SelectedNode": "\\BookShoppingCartMvcUI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+  "PreviewInSolutionExplorer": false
+}
